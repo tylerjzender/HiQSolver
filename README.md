@@ -39,7 +39,7 @@ early on. Once the number of pegs on the board is reduced below 15, breadth-firs
 search is used. This allows for a proper balance between memory usage and 
 speed of the algorithm.
 
-![alt text](https://github.com/tylerjzender/HiQSolver/blob/main/HiQSolver_Start.JPG?raw=true)
+![HiQSolver_End](https://user-images.githubusercontent.com/77171947/104414117-af755380-553d-11eb-9504-c484b0404153.JPG)
 
 Figure 2: Console print-out of the current board state
 
@@ -50,11 +50,11 @@ depth-first search is used and the tree is expanded at every frontier node. Once
 a solution is found, this solution is indicated in the console and the solution
 is printed out backwards.
 
-![alt text](https://github.com/tylerjzender/HiQSolver/blob/main/HiQSolver_End.JPG?raw=true)
+![HiQSolver_Solution](https://user-images.githubusercontent.com/77171947/104414118-b00dea00-553d-11eb-8842-57f5c989413a.JPG)
 
 Figure 3: Console indication of a solution being found after expading the tree with DFS
 
-![alt text](https://github.com/tylerjzender/HiQSolver/blob/main/HiQSolver_Solution.JPG?raw=true)
+![HiQSolver_Start](https://user-images.githubusercontent.com/77171947/104414119-b00dea00-553d-11eb-9fcc-0966798d4b12.JPG)
 
 Figure 4: Console indication of steps taken in backwards order to solve the game
 
