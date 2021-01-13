@@ -54,6 +54,7 @@ is printed out backwards.
 
 Figure 3: Console indication of a solution being found after expading the tree with DFS
 
+
 ![HiQSolver_End](https://user-images.githubusercontent.com/77171947/104414117-af755380-553d-11eb-9504-c484b0404153.JPG)
 
 Figure 4: Console indication of steps taken in backwards order to solve the game
