@@ -7,7 +7,7 @@ core concepts from computer science and AI to those pundits of the fields. This
 project of a Hi-Q solver allows for the exploration of applying concepts
 from the discipline of artifical intelligence. 
 
-![alt text](https://en.wikipedia.org/wiki/Peg_solitaire#/media/File:Solitaire_01.jpg)
+![Solitaire_01](https://user-images.githubusercontent.com/77171947/104413765-edbe4300-553c-11eb-9cd4-67174284833f.jpg)
 
 Figure 1: Starting board for the peg game of Hi-Q
 
