@@ -2,10 +2,10 @@
 
 Practically all university computer science students are conditioned to expect
 some obscure toy or game to act as a front for some computer science concept 
-hidden beneath the surface. The peg game of Hi-Q is yet another game that presents 
-core concepts from computer science and AI to those pundits of the fields. This
-project of a Hi-Q solver allows for the exploration of applying concepts
-from the discipline of artifical intelligence. 
+hidden beneath the surface. The peg game of Hi-Q (also known as peg solitaire 
+is yet another game that presents core concepts from computer science and AI 
+to those pundits of the fields. This project of a Hi-Q solver allows for the 
+exploration of applying concepts from the discipline of artifical intelligence. 
 
 ![Solitaire_01](https://user-images.githubusercontent.com/77171947/104413765-edbe4300-553c-11eb-9cd4-67174284833f.jpg)
 
