@@ -7,7 +7,8 @@ core concepts from computer science and AI to those pundits of the fields. This
 project of a Hi-Q solver allows for the exploration of applying concepts
 from the discipline of artifical intelligence. 
 
-![alt text](https://en.wikipedia.org/wiki/Peg_solitaire#/media/File:Solitaire_01.jpg?raw=true)
+![alt text](https://en.wikipedia.org/wiki/Peg_solitaire#/media/File:Solitaire_01.jpg)
+
 Figure 1: Starting board for the peg game of Hi-Q
 
 With with pegs in the shape of a '+' and an empty space in the center of the board,
@@ -39,6 +40,7 @@ search is used. This allows for a proper balance between memory usage and
 speed of the algorithm.
 
 ![alt text](https://github.com/tylerjzender/HiQSolver/blob/main/HiQSolver_Start.JPG?raw=true)
+
 Figure 2: Console print-out of the current board state
 
 The board is represented as a print-out to the console with '1's representing pegs,
@@ -49,9 +51,11 @@ a solution is found, this solution is indicated in the console and the solution
 is printed out backwards.
 
 ![alt text](https://github.com/tylerjzender/HiQSolver/blob/main/HiQSolver_End.JPG?raw=true)
+
 Figure 3: Console indication of a solution being found after expading the tree with DFS
 
 ![alt text](https://github.com/tylerjzender/HiQSolver/blob/main/HiQSolver_Solution.JPG?raw=true)
+
 Figure 4: Console indication of steps taken in backwards order to solve the game
 
 This program was created as an assignment for an artificial intelligence elective 
