@@ -39,9 +39,9 @@ early on. Once the number of pegs on the board is reduced below 15, breadth-firs
 search is used. This allows for a proper balance between memory usage and 
 speed of the algorithm.
 
-![HiQSolver_End](https://user-images.githubusercontent.com/77171947/104414117-af755380-553d-11eb-9504-c484b0404153.JPG)
+![HiQSolver_Start](https://user-images.githubusercontent.com/77171947/104414119-b00dea00-553d-11eb-9fcc-0966798d4b12.JPG)
 
-Figure 2: Console print-out of the current board state
+Figure 2: Console print-out of the initial current board state and subsequent board states
 
 The board is represented as a print-out to the console with '1's representing pegs,
 '2's indicating walls/out-of-bounds, and '0's representing empty spaces. After
@@ -54,7 +54,7 @@ is printed out backwards.
 
 Figure 3: Console indication of a solution being found after expading the tree with DFS
 
-![HiQSolver_Start](https://user-images.githubusercontent.com/77171947/104414119-b00dea00-553d-11eb-9fcc-0966798d4b12.JPG)
+![HiQSolver_End](https://user-images.githubusercontent.com/77171947/104414117-af755380-553d-11eb-9504-c484b0404153.JPG)
 
 Figure 4: Console indication of steps taken in backwards order to solve the game
 
